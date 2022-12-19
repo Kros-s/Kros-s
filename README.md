@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I’m an iOS developer. I currently work as a iOS Software Engineer at [Wizeline](wizeline.com). 
+I’m an iOS developer. I currently work as a iOS Software Engineer. 
 
 - 🔭 I’m currently working on Wallet App
 - 🌱 I’m currently learning SwiftUI
